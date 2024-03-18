@@ -1,0 +1,25 @@
+.bg-img{
+    background-color: white;
+    /* background-image: url('Images/R.jpg'); */
+}
+
+.heading-text{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.nav-bg{
+    background-color: white;
+}
+
+.width-search{
+    width: 100%;
+}
+
+.head-text{
+    font-size: 30px;
+}
+
+.add{
+    float: right;
+}
